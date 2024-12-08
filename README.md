@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/mihiranga_18" target="blank"><img src="https://img.shields.io/twitter/follow/mihiranga_18?logo=twitter&style=for-the-badge" alt="mihiranga_18" /></a> </p>
 
-- 🌱 I’m currently learning **Mobile App Development**
+- 🌱 I’m currently learning **Frameworks Using in Software Development**
 
-- 💬 Ask me about **c, c++, java, js**
+- 💬 Ask me about **c, c++, java, kotlin, js**
 
 - 📫 How to reach me **mihirangafdz@gmail.com**
 
