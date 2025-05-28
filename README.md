@@ -15,7 +15,7 @@
 
 ### 💡 About Me
 
-- 🔭 I’m a **professional developer** and an avid learner, always exploring new technologies.
+- 🔭 I’m a **Full Stack Developer** and an avid learner, always exploring new technologies.
 - 🏏 Also a **professional cricketer**—teamwork, discipline, and strategy drive everything I do.
 - 💬 Ask me about:  
   <b>C, C++, Java, Kotlin, JavaScript, TypeScript, Angular, .NET, ASP.NET, Python</b>
