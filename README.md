@@ -1,24 +1,62 @@
-![MasterHead](https://blogs.swarthmore.edu/its/wp-content/uploads/2022/12/github-universe-1920x768.png)
 <h1 align="center">Hi 👋, I'm Mihiranga Fernando</h1>
-<h3 align="center">A passionate developer from Sri Lanka</h3>
+<h3 align="center">A passionate developer from Sri Lanka & professional cricketer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mihirangafdz&label=Profile%20views&color=0e75b6&style=flat" alt="mihirangafdz" /> </p>
-
-<p align="left"> <a href="https://twitter.com/mihiranga_18" target="blank"><img src="https://img.shields.io/twitter/follow/mihiranga_18?logo=twitter&style=for-the-badge" alt="mihiranga_18" /></a> </p>
-
-- 🌱 I’m currently learning **Frameworks Using in Software Development**
-
-- 💬 Ask me about **c, c++, java, kotlin, js**
-
-- 📫 How to reach me **mihirangafdz@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mihiranga_18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mihiranga_18" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mihiranga fernando" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mihiranga fernando" height="30" width="40" /></a>
-<a href="https://instagram.com/mihiranga_18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mihiranga_18" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mihirangaFDZ&label=Profile%20views&color=0e75b6&style=flat" alt="mihirangaFDZ" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+---
 
+- 💻 I love building in **C, C++, Java, Kotlin, JS, TS, Angular, .NET, ASP.NET, Python**
+
+- 🏏 I'm also a **professional cricketer**—code by day, cricket by heart!
+
+- 💬 Ask me about anything in the stacks above or just say hi!
+
+- 📫 How to reach me: **mihirangafdz@gmail.com**
+
+---
+
+### 🌐 Connect with me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/mihiranga-fernando-10608526a/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" /></a>
+  <a href="https://www.facebook.com/mihiranga.fernando.638452/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" height="30" /></a>
+  <a href="https://www.instagram.com/mihiranga_18/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" height="30" /></a>
+</p>
+
+---
+
+### ⚡ Tech Stack
+
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2b%2b)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
+![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet)
+![ASP.NET](https://img.shields.io/badge/-ASP.NET-5C2D91?style=flat-square&logo=dotnet)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=mihirangaFDZ&show_icons=true&theme=radical" alt="mihirangaFDZ's stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihirangaFDZ&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### ⚽ Fun Fact
+
+I’m as passionate about cricket as I am about coding—always aiming for the perfect delivery, whether it’s on the field or in a pull request!
+
+---
+
+<p align="center">
+  <img src="https://github.com/mihirangaFDZ/mihirangaFDZ/raw/main/cricket-coding.gif" width="250" alt="Cricket & Code" />
+</p>
