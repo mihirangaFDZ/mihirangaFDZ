@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mihiranga Fernando</h1>
-<h3 align="center">Developer | Tech Enthusiast | Professional Cricketer from Sri Lanka</h3>
+<h3 align="center">Associate Software Engineer | Tech Enthusiast | Professional Cricketer from Sri Lanka</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mihirangaFDZ&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -54,16 +54,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32" alt="Python"/>
 </p>
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mihirangaFDZ&show_icons=true&theme=radical" alt="mihirangaFDZ's GitHub stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihirangaFDZ&layout=compact&theme=radical" alt="Top Languages" height="150"/>
-</p>
-
----
 
 ### ⚡ Fun Fact
 
